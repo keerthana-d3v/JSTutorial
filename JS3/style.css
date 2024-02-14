@@ -1,0 +1,40 @@
+#box{
+
+height: 100px;
+width:100px;
+background-color: dodgerblue;
+color: white;
+border: 1px solid black;
+
+
+}
+
+
+.content{
+
+color:red;
+
+
+
+}
+
+
+.newClass{
+
+background-color: green;
+
+
+}
+
+
+.dark{
+
+ color: white;
+    background-color:black;
+}
+
+.light{
+
+    color: black;
+    background-color:white;
+}
